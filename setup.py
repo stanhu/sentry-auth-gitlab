@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-sentry-auth-gitlab
+sentry-auth-gitlab-sso
 ==================
 
 :copyright: (c) 2015 Functional Software, Inc
@@ -18,11 +18,11 @@ install_requires = [
 ]
 
 setup(
-    name='sentry-auth-gitlab',
-    version='0.1.0',
+    name='sentry-auth-gitlab-sso',
+    version='0.1.1',
     author='Sky Lothar',
     author_email='allothar@gmail.com@gmail.com',
-    url='https://github.com/skylothar',
+    url='https://github.com/stanhu/sentry-auth-gitlab',
     description='Gitlab authentication provider for Sentry',
     long_description=__doc__,
     license='',

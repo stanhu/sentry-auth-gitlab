@@ -1,6 +1,6 @@
 GitLab Auth for Sentry
 ======================
-v0.1.0
+v0.1.1
 
 An SSO provider for Sentry which enables GitLab Login
 
@@ -22,7 +22,7 @@ Install
 
 ::
 
-    pip install sentry-auth-gitlab
+    pip install sentry-auth-gitlab-sso
 
 Setup
 -----
